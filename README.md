@@ -4,4 +4,6 @@
 使用框架：Vue.js<br>
 使用Axios串連資料
 
+[try it](https://janlin002.github.io/kaohsiung-travel/travel.html)
+
 
